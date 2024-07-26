@@ -9,7 +9,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [solution](https://github.com/tugcekizildg/Testimonials_Grid_Challenge_FEM)
-- Live Site URL: [live-preview](hhttps://66a35738bc7eee4fe7887194--gilded-tulumba-c62301.netlify.app)
+- Live Site URL: [live-preview](https://66a35738bc7eee4fe7887194--gilded-tulumba-c62301.netlify.app)
 
 ## My process
 
